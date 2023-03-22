@@ -21,6 +21,7 @@ public class HomeController {
 //        String last_name = wr.getParameter("lname");
 //        model.addAttribute("first_name", first_name);
 //        model.addAttribute("last_name", last_name);
+        //hej
 
         return "home/personData";
     }
